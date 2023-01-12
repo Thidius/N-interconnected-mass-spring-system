@@ -1,6 +1,8 @@
 # N-interconnected-mass-spring-system
 A PyGame simulation of the motion over time for an interconnected mass-spring-system with n masses. The masses are oscillating on a horizontal and frictionless surface.
+
 <img align = "left" src = "https://user-images.githubusercontent.com/121384892/212168393-e093951a-aa1e-47f9-a099-1126ce9dd005.png" width = 500, length = 250 >
+
 The user can input some initial conditions on the position of each mass. For each new initial condition, a new mass is added into the system. 
 It's assumed that all masses are identical, and that they all start from rest. Through some mathematical derivation, the equations of motions are derived for each and every block. The derivations can be found in the uploaded pdf. 
 
