@@ -8,5 +8,3 @@ It's assumed that all masses are identical, and that they all start from rest. T
 
 The solution of the motion of each block over time is then plotted using matplotlib. After this window has been closed, a PyGame simulation of the development of the system over time will be presented. 
 The floor.jpg file is used as a background for the PyGame simulation, but the user is of course to change that to their preferred style. 
-
-NOTE: This code still has some issues that has to be addressed.
